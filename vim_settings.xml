@@ -1,0 +1,33 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1524947651401">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524947360364">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cmtb/cshore_research/cshoreAnalysis_for_OS.py" timestamp="1524948507825" />
+      <file name="$USER_HOME$/cmtb/cBathy_Study/paperFigures/NonBinnedxshore Stats.py" timestamp="1524948618103" />
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
