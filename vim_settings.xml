@@ -1,12 +1,38 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks />
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
